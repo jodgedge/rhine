@@ -10,4 +10,4 @@ If you find any weird bugs or glitches, please let me know. This is very experim
 
 Disclaimer: I do not own any of the songs used, the names and creators of the songs are listed.
 
-Play: https://gamejolt.com/games/rhine/621432
+Play: https://jodgedge.github.io/rhine
